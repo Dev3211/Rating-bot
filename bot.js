@@ -631,4 +631,5 @@ client.on("message", (message) => {
 }
 
 });
-client.login("NDQxMzI5NTA1ODEwNzc2MDg1.Dcur6g.0oK0tjPLNWrTHGw-EnEuqM3F2Po");
+
+client.login("");
