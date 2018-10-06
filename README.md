@@ -26,8 +26,11 @@ You can make changes in the script if you are experienced enough and for any hel
 The required modules are:
 
 Anychart
+
 discord.js
+
 fs-extra
+
 jsonfile
 
 The fun part was the data management through JSON and it really worked out well, you may also use SQLITE to make the data management process even more reliable.
